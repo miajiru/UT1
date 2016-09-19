@@ -10,7 +10,7 @@ public class CommunicationBetweenProcess {
 
 	public static void main(String[] args) throws IOException {
 		/*
-		 * xxxxEsto es un comentario xxxxx
+		 * xxxEsto es un comentario xxxxx
 		 * */
 		if (args.length <= 0) {
 			System.err.println("Se necesita un programa a ejecutar");
